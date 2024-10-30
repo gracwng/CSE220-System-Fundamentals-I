@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "hw2.h": "c",
+        "cstdlib": "c",
+        "__locale": "c",
+        "ios": "c",
+        "stdio.h": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "unordered_map": "c",
+        "algorithm": "c",
+        "format": "c",
+        "chrono": "c"
+    }
+    //"C_Cpp.intelliSenseEngine": "disabled"
+}

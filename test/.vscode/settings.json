@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.java": "java",
+        "*.py": "python",
+        "string": "c",
+        "format": "c",
+        "cstdlib": "c"
+    }
+}
